@@ -1,0 +1,11 @@
+{
+   "words":[
+      {"word":"おだってる","sounds_like":["オダッテル"],"display_as":"おだってる"},
+      {"word":"おだつ","sounds_like":["オダツ"],"display_as":"おだつ"},
+      {"word":"うるかす","sounds_like":["ウルカス"],"display_as":"潤かす"},
+      {"word":"うるかして","sounds_like":["ウルカシテ"],"display_as":"潤かして"},
+      {"word":"うるかしといて","sounds_like":["ウルカシトイテ"],"display_as":"潤かしといて"},
+      {"word":"押ささる","sounds_like":["オササル"],"display_as":"押ささる"},
+      {"word":"押ささった","sounds_like":["オササッタ"],"display_as":"押ささった"}         
+   ]
+}
